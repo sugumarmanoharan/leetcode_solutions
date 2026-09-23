@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
