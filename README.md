@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
