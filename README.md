@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
