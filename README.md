@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
