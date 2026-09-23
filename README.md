@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
@@ -73,5 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
