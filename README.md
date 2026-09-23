@@ -35,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
