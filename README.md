@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
