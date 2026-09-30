@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0326-power-of-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3870-count-commas-in-range) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
