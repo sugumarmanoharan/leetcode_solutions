@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0326-power-of-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
@@ -97,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sugumarmanoharan/leetcode_solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
